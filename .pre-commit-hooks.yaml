@@ -5,3 +5,4 @@
   types: [go]
   language: golang
   pass_filenames: false
+  additional_dependencies: ["golang.org/x/tools/cmd/goimports@52eb446eff42346479727c4e9bd706d3a8e4680a"]
